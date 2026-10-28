@@ -43,6 +43,33 @@ Mi piace trasformare idee in applicazioni funzionanti: dal frontend al backend, 
 
 ---
 
+## ⭐ Featured project
+
+<div align="center">
+
+<a href="https://github.com/Ajimimahdi16/GestionaleAutodemolizione">
+  <img src="https://raw.githubusercontent.com/Ajimimahdi16/Ajimimahdi16/main/gestionale-card.svg" width="100%" alt="Animated preview of the spare parts management app" />
+</a>
+
+<br/>
+
+A management app for a car dismantling yard: find used spare parts by type, make, model, year, colour and side, and see instantly whether they are available or sold.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700" />
+
+<br/><br/>
+
+<a href="https://github.com/Ajimimahdi16/GestionaleAutodemolizione"><img src="https://img.shields.io/badge/View%20the%20code-FFD700?style=for-the-badge&logo=github&logoColor=000000" /></a>
+
+</div>
+
+---
+
 ## 🐍 My contributions
 
 <div align="center">
@@ -67,7 +94,7 @@ Mi piace trasformare idee in applicazioni funzionanti: dal frontend al backend, 
 
 <br/><br/>
 
-<i>"99 little bugs in the code, 99 little bugs... take one down, patch it around: 127 little bugs in the code."</i> ✨
+<i>99 little bugs in the code, 99 little bugs... take one down, patch it around: 127 little bugs in the code.</i> 🐛
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer" width="100%" />
 
