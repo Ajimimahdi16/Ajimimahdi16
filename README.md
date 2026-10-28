@@ -67,7 +67,7 @@ Mi piace trasformare idee in applicazioni funzionanti: dal frontend al backend, 
 
 <br/><br/>
 
-<i>"The best code is the one that solves a real problem."</i> ✨
+<i>"99 little bugs in the code, 99 little bugs... take one down, patch it around: 127 little bugs in the code."</i> ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer" width="100%" />
 
