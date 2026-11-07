@@ -1,17 +1,12 @@
-<!-- ========== ANIMATED HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Mahdi%20Ajimi&fontSize=52&fontColor=000000&animation=fadeIn&fontAlignY=36&desc=Web%20Developer&descSize=22&descAlignY=58&descAlign=50" width="100%" />
+<img src="assets/banner.svg" alt="Mahdi Ajimi, Junior Full Stack Developer" width="100%" />
 
-<!-- Self-typing text -->
-<a href="https://github.com/Ajimimahdi16">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=E0A800&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Mahdi+%F0%9F%91%8B;Web+Developer;React+%7C+Node.js+%7C+Express+%7C+MySQL;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Open%20to-Work-FFD700?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/Boolean-Web%20Development-FFD700?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Boolean-Full%20Stack%20Web%20Development-FFD700?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Based%20in-Torino%2C%20IT-FFD700?style=for-the-badge&labelColor=000000" />
 <img src="https://komarev.com/ghpvc/?username=Ajimimahdi16&label=Views&color=FFD700&style=for-the-badge" />
 
 </div>
@@ -20,53 +15,82 @@
 
 ## 👨‍💻 About me
 
-I'm **Mahdi**, a web developer trained through the **Web Development Master at Boolean** (320 hours).
-I like turning ideas into working applications: from the frontend to the backend, all the way down to the database.
+I'm **Mahdi**, a junior full stack web developer. I completed the **Full Stack Web Development course at Boolean** (320 hours, part-time) and I build complete applications: React front-ends, Node.js and Express APIs, MySQL databases.
+
+Before moving into development I worked in administration and operations at a car dismantling company in Turin. That is where my first real project came from: a spare parts manager and a public website, both live and used day to day.
 
 <details>
 <summary>🇮🇹 Versione in italiano</summary>
 
 <br/>
 
-Sono **Mahdi**, sviluppatore web formato con il master in **Web Development di Boolean** (320 ore).
-Mi piace trasformare idee in applicazioni funzionanti: dal frontend al backend, fino al database.
+Sono **Mahdi**, sviluppatore web full stack junior. Ho completato il percorso **Full Stack Web Development di Boolean** (320 ore, part-time) e realizzo applicazioni complete: interfacce in React, API con Node.js ed Express, database MySQL.
+
+Prima di passare allo sviluppo ho lavorato in amministrazione e gestione operativa in un'autodemolizione di Torino. Da lì è nato il mio primo progetto reale: un gestionale per i ricambi e un sito pubblico, entrambi online e in uso ogni giorno.
 
 </details>
 
 ---
 
+## 🧰 What I used, project by project
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode&perline=10" />
+<img src="assets/stack.svg" alt="Technologies used in my projects: React, Vite, Node.js, Express, MySQL, AWS Lightsail, Caddy, HTML, CSS, JavaScript, Supabase, Git, GitHub" width="100%" />
 
 </div>
 
 ---
 
-## ⭐ Featured project
+## ⭐ Projects
+
+### 1 · Spare parts manager
 
 <div align="center">
 
 <a href="https://github.com/Ajimimahdi16/GestionaleAutodemolizione">
-  <img src="https://raw.githubusercontent.com/Ajimimahdi16/Ajimimahdi16/main/gestionale-card.svg" width="100%" alt="Animated preview of the spare parts management app" />
+  <img src="assets/project-gestionale.svg" alt="Animated preview of the spare parts manager: searching for a front bumper and marking a part as sold" width="100%" />
 </a>
 
-<br/>
+</div>
 
-A management app for a car dismantling yard: find used spare parts by type, make, model, year, colour and side, and see instantly whether they are available or sold.
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700" />
-
-<br/><br/>
+The back-office of a car dismantling yard in Turin. Staff search parts by make, model and year, add photos (resized automatically), and mark each part as available or sold. Role-based login for admins and operators, nightly backups, works on phones too.
 
 <a href="https://github.com/Ajimimahdi16/GestionaleAutodemolizione"><img src="https://img.shields.io/badge/View%20the%20code-FFD700?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
+---
+
+### 2 · Public website
+
+<div align="center">
+
+<a href="https://autodemolizionericambitorino.it">
+  <img src="assets/project-sito.svg" alt="Animated preview of the public website: a car drawn in technical lines that opens zone by zone and shows which spare parts are available" width="100%" />
+</a>
+
 </div>
+
+The website for the customers of the same yard. A car drawn in technical lines "opens" zone by zone (engine bay, cabin, doors, rear, underbody, wheels) and shows which parts are in stock right now, connected to the back-office. No cookies and no personal data collected. Hosted on AWS Lightsail with automatic HTTPS.
+
+<a href="https://autodemolizionericambitorino.it"><img src="https://img.shields.io/badge/Visit%20the%20site-FFD700?style=for-the-badge&logo=googlechrome&logoColor=000000" /></a>
+<a href="https://github.com/Ajimimahdi16/GestionaleAutodemolizione/tree/main/sito-pubblico"><img src="https://img.shields.io/badge/View%20the%20code-000000?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
+
+---
+
+### 3 · Arrow F.C.
+
+<div align="center">
+
+<a href="https://arrowfc.it">
+  <img src="assets/project-arrow.svg" alt="Animated preview of the Arrow F.C. website: a 3-3-1 formation on the pitch and a player pack opening" width="100%" />
+</a>
+
+</div>
+
+The official website of Arrow F.C., an eight-a-side football team in Piedmont. Squad, fixtures with scorers, honours, gallery and sponsors. A 3-3-1 line-up that rotates on its own, a FIFA-style "open a pack" animation, and an admin panel (Supabase) where matches, players and sponsors are managed and statistics are calculated automatically.
+
+<a href="https://arrowfc.it"><img src="https://img.shields.io/badge/Visit%20the%20site-FFD700?style=for-the-badge&logo=googlechrome&logoColor=000000" /></a>
+<a href="https://github.com/Ajimimahdi16/arrow-fc"><img src="https://img.shields.io/badge/View%20the%20code-000000?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
 
 ---
 
@@ -91,11 +115,5 @@ A management app for a car dismantling yard: find used spare parts by type, make
 <a href="https://www.linkedin.com/in/mahdi-ajimi-07589b249"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" /></a>
 <a href="mailto:ajimimahdi1@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" /></a>
 <a href="https://github.com/Ajimimahdi16"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
-
-<br/><br/>
-
-<i>99 little bugs in the code, 99 little bugs... take one down, patch it around: 127 little bugs in the code.</i> 🐛
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer" width="100%" />
 
 </div>
