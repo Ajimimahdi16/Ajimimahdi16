@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 352" width="900" height="352" role="img" aria-label="About me: I'm Mahdi, a junior full stack web developer. I completed the Full Stack Web Development course at Boolean (320 hours, part-time) and I build complete applications: React front-ends, Node.js and Express APIs, MySQL databases. Before moving into development I worked in administration and operations at a car dismantling company in Turin. That is where my first real project came from, live and used day to day. Sono Mahdi, sviluppatore web full stack junior. Ho completato il percorso Full Stack Web Development di Boolean (320 ore, part-time) e realizzo applicazioni complete: interfacce in React, API con Node.js ed Express, database MySQL. Prima di passare allo sviluppo ho lavorato in amministrazione e gestione operativa in un'autodemolizione di Torino. Da lì è nato il mio primo progetto reale, online e in uso ogni giorno.">
+<title>About me: I'm Mahdi, a junior full stack web developer. I completed the Full Stack Web Development course at Boolean (320 hours, part-time) and I build complete applications: React front-ends, Node.js and Express APIs, MySQL databases. Before moving into development I worked in administration and operations at a car dismantling company in Turin. That is where my first real project came from, live and used day to day. Sono Mahdi, sviluppatore web full stack junior. Ho completato il percorso Full Stack Web Development di Boolean (320 ore, part-time) e realizzo applicazioni complete: interfacce in React, API con Node.js ed Express, database MySQL. Prima di passare allo sviluppo ho lavorato in amministrazione e gestione operativa in un'autodemolizione di Torino. Da lì è nato il mio primo progetto reale, online e in uso ogni giorno.</title><style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Courier New",monospace}.b{font-weight:700}.bb{font-weight:800}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.dot{animation:blink 1.4s infinite}</style>
+<rect width="900" height="352" fill="#0a0a0a"/>
+
+<rect x="1" y="1" width="898" height="350" fill="none" stroke="#FFD60A" stroke-opacity=".2"/>
+<text x="40" y="44" class="m" font-size="12" fill="#FFD60A" letter-spacing="3">// 01 · ABOUT</text>
+<rect class="dot" x="170" y="34" width="9" height="12" fill="#FFD60A"/>
+<line x1="450" y1="70" x2="450" y2="328" stroke="#fff" stroke-opacity=".12"/>
+<text x="40" y="82" class="m" font-size="11" fill="#fff" fill-opacity=".5" letter-spacing="3">EN</text>
+<text x="482" y="82" class="m" font-size="11" fill="#fff" fill-opacity=".5" letter-spacing="3">IT</text>
+<text x="40" y="104" font-size="14.5" fill="#fff" fill-opacity="0.9">I'm Mahdi, a junior full stack web developer. I</text>
+<text x="40" y="126" font-size="14.5" fill="#fff" fill-opacity="0.9">completed the Full Stack Web Development course at</text>
+<text x="40" y="148" font-size="14.5" fill="#fff" fill-opacity="0.9"><tspan fill="#FFD60A" font-weight="700">Boolean</tspan> (<tspan fill="#FFD60A" font-weight="700">320 hours</tspan>, part-time) and I build</text>
+<text x="40" y="170" font-size="14.5" fill="#fff" fill-opacity="0.9">complete applications: <tspan fill="#FFD60A" font-weight="700">React</tspan> front-ends, <tspan fill="#FFD60A" font-weight="700">Node.js</tspan></text>
+<text x="40" y="192" font-size="14.5" fill="#fff" fill-opacity="0.9">and <tspan fill="#FFD60A" font-weight="700">Express</tspan> APIs, <tspan fill="#FFD60A" font-weight="700">MySQL</tspan> databases.</text><text x="40" y="228" font-size="14.5" fill="#fff" fill-opacity="0.9">Before moving into development I worked in</text>
+<text x="40" y="250" font-size="14.5" fill="#fff" fill-opacity="0.9">administration and operations at a car dismantling</text>
+<text x="40" y="272" font-size="14.5" fill="#fff" fill-opacity="0.9">company in Turin. That is where my first real</text>
+<text x="40" y="294" font-size="14.5" fill="#fff" fill-opacity="0.9">project came from, live and used day to day.</text>
+<text x="482" y="104" font-size="14.5" fill="#fff" fill-opacity="0.9">Sono Mahdi, sviluppatore web full stack junior. Ho</text>
+<text x="482" y="126" font-size="14.5" fill="#fff" fill-opacity="0.9">completato il percorso Full Stack Web Development</text>
+<text x="482" y="148" font-size="14.5" fill="#fff" fill-opacity="0.9">di <tspan fill="#FFD60A" font-weight="700">Boolean</tspan> (<tspan fill="#FFD60A" font-weight="700">320 ore</tspan>, part-time) e realizzo</text>
+<text x="482" y="170" font-size="14.5" fill="#fff" fill-opacity="0.9">applicazioni complete: interfacce in <tspan fill="#FFD60A" font-weight="700">React</tspan>, API</text>
+<text x="482" y="192" font-size="14.5" fill="#fff" fill-opacity="0.9">con <tspan fill="#FFD60A" font-weight="700">Node.js</tspan> ed <tspan fill="#FFD60A" font-weight="700">Express</tspan>, database <tspan fill="#FFD60A" font-weight="700">MySQL</tspan>.</text><text x="482" y="228" font-size="14.5" fill="#fff" fill-opacity="0.9">Prima di passare allo sviluppo ho lavorato in</text>
+<text x="482" y="250" font-size="14.5" fill="#fff" fill-opacity="0.9">amministrazione e gestione operativa in</text>
+<text x="482" y="272" font-size="14.5" fill="#fff" fill-opacity="0.9">un'autodemolizione di Torino. Da lì è nato il mio</text>
+<text x="482" y="294" font-size="14.5" fill="#fff" fill-opacity="0.9">primo progetto reale, online e in uso ogni giorno.</text>
+</svg>

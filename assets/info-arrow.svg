@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 202" width="900" height="202" role="img" aria-label="Arrow F.C.. The official website of Arrow F.C., an eight-a-side football team in Piedmont. Squad, fixtures with scorers, honours, gallery and sponsors. A 3-3-1 line-up that rotates on its own, a FIFA-style &quot;open a pack&quot; animation, and an admin panel (Supabase) where matches, players and sponsors are managed and statistics are calculated automatically.">
+<title>Arrow F.C.. The official website of Arrow F.C., an eight-a-side football team in Piedmont. Squad, fixtures with scorers, honours, gallery and sponsors. A 3-3-1 line-up that rotates on its own, a FIFA-style &quot;open a pack&quot; animation, and an admin panel (Supabase) where matches, players and sponsors are managed and statistics are calculated automatically.</title><style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Courier New",monospace}.b{font-weight:700}.bb{font-weight:800}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.dot{animation:blink 1.4s infinite}</style>
+<rect width="900" height="202" fill="#0a0a0a"/>
+
+<text x="28" y="36" class="m" font-size="12" fill="#FFD60A" letter-spacing="3">// PROJECT 03 · TEAM WEBSITE</text>
+<text x="28" y="68" class="bb" font-size="24" fill="#fff">Arrow F.C.</text>
+<text x="28" y="98" font-size="14.5" fill="#fff" fill-opacity="0.9">The official website of Arrow F.C., an eight-a-side football team in Piedmont. Squad, fixtures with scorers,</text>
+<text x="28" y="120" font-size="14.5" fill="#fff" fill-opacity="0.9">honours, gallery and sponsors. A 3-3-1 line-up that rotates on its own, a FIFA-style &quot;open a pack&quot;</text>
+<text x="28" y="142" font-size="14.5" fill="#fff" fill-opacity="0.9">animation, and an admin panel (<tspan fill="#FFD60A" font-weight="700">Supabase</tspan>) where matches, players and sponsors are managed and statistics are</text>
+<text x="28" y="164" font-size="14.5" fill="#fff" fill-opacity="0.9">calculated automatically.</text>
+</svg>

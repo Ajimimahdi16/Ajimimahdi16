@@ -37,7 +37,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 <radialGradient id="glow" cx="82%" cy="50%" r="55%"><stop offset="0" stop-color="#FFD60A" stop-opacity=".2"/><stop offset="1" stop-color="#FFD60A" stop-opacity="0"/></radialGradient>
 <linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#FFD60A" stop-opacity="0"/><stop offset=".5" stop-color="#FFD60A"/><stop offset="1" stop-color="#FFD60A" stop-opacity="0"/></linearGradient>
 <clipPath id="tc"><rect class="typew" x="60" y="164" height="30" width="0"/></clipPath>
-<clipPath id="all"><rect width="900" height="300" rx="16"/></clipPath>
+<clipPath id="all"><rect width="900" height="300"/></clipPath>
 </defs>
 <g clip-path="url(#all)">
 <rect width="900" height="300" fill="#0a0a0a"/>
@@ -45,7 +45,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 <g class="grid" stroke="#FFD60A" stroke-opacity=".08"><line x1="-36" y1="-36" x2="-36" y2="336"/><line x1="0" y1="-36" x2="0" y2="336"/><line x1="36" y1="-36" x2="36" y2="336"/><line x1="72" y1="-36" x2="72" y2="336"/><line x1="108" y1="-36" x2="108" y2="336"/><line x1="144" y1="-36" x2="144" y2="336"/><line x1="180" y1="-36" x2="180" y2="336"/><line x1="216" y1="-36" x2="216" y2="336"/><line x1="252" y1="-36" x2="252" y2="336"/><line x1="288" y1="-36" x2="288" y2="336"/><line x1="324" y1="-36" x2="324" y2="336"/><line x1="360" y1="-36" x2="360" y2="336"/><line x1="396" y1="-36" x2="396" y2="336"/><line x1="432" y1="-36" x2="432" y2="336"/><line x1="468" y1="-36" x2="468" y2="336"/><line x1="504" y1="-36" x2="504" y2="336"/><line x1="540" y1="-36" x2="540" y2="336"/><line x1="576" y1="-36" x2="576" y2="336"/><line x1="612" y1="-36" x2="612" y2="336"/><line x1="648" y1="-36" x2="648" y2="336"/><line x1="684" y1="-36" x2="684" y2="336"/><line x1="720" y1="-36" x2="720" y2="336"/><line x1="756" y1="-36" x2="756" y2="336"/><line x1="792" y1="-36" x2="792" y2="336"/><line x1="828" y1="-36" x2="828" y2="336"/><line x1="864" y1="-36" x2="864" y2="336"/><line x1="900" y1="-36" x2="900" y2="336"/><line x1="936" y1="-36" x2="936" y2="336"/><line x1="-36" y1="-36" x2="936" y2="-36"/><line x1="-36" y1="0" x2="936" y2="0"/><line x1="-36" y1="36" x2="936" y2="36"/><line x1="-36" y1="72" x2="936" y2="72"/><line x1="-36" y1="108" x2="936" y2="108"/><line x1="-36" y1="144" x2="936" y2="144"/><line x1="-36" y1="180" x2="936" y2="180"/><line x1="-36" y1="216" x2="936" y2="216"/><line x1="-36" y1="252" x2="936" y2="252"/><line x1="-36" y1="288" x2="936" y2="288"/><line x1="-36" y1="324" x2="936" y2="324"/></g>
 <rect class="scan" x="0" y="0" width="900" height="2" fill="url(#sg)"/>
 </g>
-<rect x="1" y="1" width="898" height="298" rx="16" fill="none" stroke="#FFD60A" stroke-opacity=".25"/>
+<rect x="1" y="1" width="898" height="298" fill="none" stroke="#FFD60A" stroke-opacity=".25"/>
 <g fill="none" stroke="#FFD60A" stroke-width="2.5" stroke-linecap="round">
 <path d="M22 44V24h20"/><path d="M878 44V24h-20"/><path d="M22 256v20h20"/><path d="M878 256v20h-20"/></g>
 

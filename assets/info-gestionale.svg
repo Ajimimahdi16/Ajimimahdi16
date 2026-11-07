@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-label="Spare parts manager. The back-office of a car dismantling yard in Turin. Staff search parts by make, model and year, add photos (resized automatically), and mark each part as available or sold. Role-based login for admins and operators, nightly backups, works on phones too.">
+<title>Spare parts manager. The back-office of a car dismantling yard in Turin. Staff search parts by make, model and year, add photos (resized automatically), and mark each part as available or sold. Role-based login for admins and operators, nightly backups, works on phones too.</title><style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Courier New",monospace}.b{font-weight:700}.bb{font-weight:800}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.dot{animation:blink 1.4s infinite}</style>
+<rect width="900" height="180" fill="#0a0a0a"/>
+
+<text x="28" y="36" class="m" font-size="12" fill="#FFD60A" letter-spacing="3">// PROJECT 01 · BACK-OFFICE</text>
+<text x="28" y="68" class="bb" font-size="24" fill="#fff">Spare parts manager</text>
+<text x="28" y="98" font-size="14.5" fill="#fff" fill-opacity="0.9">The back-office of a car dismantling yard in Turin. Staff search parts by make, model and year, add photos</text>
+<text x="28" y="120" font-size="14.5" fill="#fff" fill-opacity="0.9">(resized automatically), and mark each part as available or sold. Role-based login for admins and operators,</text>
+<text x="28" y="142" font-size="14.5" fill="#fff" fill-opacity="0.9">nightly backups, works on phones too.</text>
+</svg>

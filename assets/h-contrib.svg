@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 56" width="900" height="56" role="img" aria-label="04 · CONTRIBUTIONS">
+<title>04 · CONTRIBUTIONS</title><style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Courier New",monospace}.b{font-weight:700}.bb{font-weight:800}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.dot{animation:blink 1.4s infinite}</style>
+<rect width="900" height="56" fill="#0a0a0a"/>
+
+<line x1="0" y1="55" x2="900" y2="55" stroke="#FFD60A" stroke-opacity=".35"/>
+<text x="28" y="34" class="m" font-size="12" fill="#FFD60A" letter-spacing="3">// 04 · CONTRIBUTIONS</text>
+<text x="872" y="34" class="m" font-size="11" fill="#fff" fill-opacity=".5" text-anchor="end" letter-spacing="2">GITHUB ACTIVITY</text>
+</svg>

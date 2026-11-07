@@ -24,6 +24,18 @@ jobs:
             dist/github-snake.svg?color_snake=#000000&color_dots=#ebedf0,#FFF3B0,#FFE55C,#FFD700,#E0A800
             dist/github-snake-dark.svg?color_snake=#FFD700&color_dots=#161b22,#5c4a00,#8f7400,#c9a400,#FFD700
 
+      - name: Add a black background to the dark snake
+        run: |
+          python3 - <<'PY'
+          import re
+          p = "dist/github-snake-dark.svg"
+          s = open(p, encoding="utf-8").read()
+          m = re.search(r'<svg[^>]*viewBox="(-?\d+) (-?\d+) (\d+) (\d+)"[^>]*>', s)
+          x, y, w, h = m.groups()
+          rect = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="#0a0a0a"/>'
+          open(p, "w", encoding="utf-8").write(s[:m.end()] + rect + s[m.end():])
+          PY
+
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
